@@ -1,49 +1,56 @@
-📝#To-Do App
+# 📌 Interactive To-Do App  
 
-A simple, responsive task management application built with HTML, CSS, and JavaScript.
-It lets you create, edit, delete, and mark tasks as completed while saving them locally.
-The app also includes popup reminders at the exact date and time you set.
+An interactive and user-friendly **To-Do App** built using **HTML, CSS, and JavaScript**.  
+This app allows users to **add, edit, delete, and mark tasks as completed**, along with **real-time reminders** for due tasks.  
 
-🚀 Features
-➕ Add Tasks — with a title, date, and time.
+---
 
-✅ Mark as Completed — strike-through style for finished tasks.
+## 🚀 Features  
 
-✏ Edit Tasks — update task details easily.
+✅ Add tasks with **title, date, and time**  
+✅ Mark tasks as **completed**  
+✅ Edit or delete tasks easily  
+✅ Popup **reminders** for due tasks  
+✅ Tasks saved using **Local Storage** for persistence  
+✅ Clean, modern, and **responsive UI**  
 
-🗑 Delete Tasks — remove unwanted tasks.
+---
 
-💾 Local Storage Support — keeps your tasks even after page reloads.
+## 🛠 Technologies Used  
+- **HTML** – Structure of the app  
+- **CSS** – Styling and responsiveness  
+- **JavaScript** – Functionality and local storage  
 
-⏰ Popup Reminders — alerts you when the scheduled time arrives.
+---
 
-📂 Project Structure
-bash
+## 📂 Project Structure  
+SCT_WD_4/
+│── index.html # Main HTML file
+│── style.css # Styling
+│── script.js # JavaScript logic
+
+
+yaml
 Copy
 Edit
-📁 ToDo-App
-│── index.html     # Main HTML file
-│── style.css      # App styling
-│── script.js      # App logic and reminder functionality
-└── README.md      # Project description and instructions
 
-🛠 Installation & Usage
-Download or Clone the repository:
+---
 
-bash
-Copy
-Edit
+## 📌 Live Demo  
+🔗 **Live Website:** [https://RiyaNesarkar07.github.io/SCT_WD_4](https://RiyaNesarkar07.github.io/SCT_WD_4)  
+🔗 **GitHub Repo:** [https://github.com/RiyaNesarkar07/SCT_WD_4](https://github.com/RiyaNesarkar07/SCT_WD_4)  
 
-git clone https://github.com/yourusername/todo-app.git
-Open the index.html file in your browser.
+---
 
-Start adding tasks and enjoy managing your day! 🎯
+## 📷 How It Works  
+1. **Enter a task** with date and time.  
+2. **Click "Add Task"** to save it.  
+3. **Edit or delete** tasks anytime.  
+4. **Mark as complete** when done.  
+5. **Get reminder alerts** when the time is reached.  
 
+---
 
-🖌 Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6)
-
+## 📢 Author  
+👩 **Riya Nesarkar**  
+🔗 [GitHub Profile](https://github.com/RiyaNesarkar07)
