@@ -4,6 +4,8 @@ An interactive and user-friendly **To-Do App** built using **HTML, CSS, and Java
 This app allows users to **add, edit, delete, and mark tasks as completed**, along with **real-time reminders** for due tasks.  
 
 ---
+## 📌 Live Demo  
+🔗 **Live Website:** [https://RiyaNesarkar07.github.io/SCT_WD_4](https://RiyaNesarkar07.github.io/SCT_WD_4) 
 
 ## 🚀 Features  
 
@@ -35,14 +37,7 @@ Copy
 Edit
 
 ---
-
-## 📌 Live Demo  
-🔗 **Live Website:** [https://RiyaNesarkar07.github.io/SCT_WD_4](https://RiyaNesarkar07.github.io/SCT_WD_4)  
-🔗 **GitHub Repo:** [https://github.com/RiyaNesarkar07/SCT_WD_4](https://github.com/RiyaNesarkar07/SCT_WD_4)  
-
----
-
-## 📷 How It Works  
+# 📷 How It Works  
 1. **Enter a task** with date and time.  
 2. **Click "Add Task"** to save it.  
 3. **Edit or delete** tasks anytime.  
